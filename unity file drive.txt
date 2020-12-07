@@ -1,0 +1,11 @@
+original unity file is over 3GB.
+Git doesn't let me upload it.
+You can download whole unity file through the google drive link below.
+You can use the unity file in addition to commercial purposes.
+
+https://drive.google.com/file/d/1b8fw_6Oj4wclM3AK9tC9Khwq3tVgQiqs/view?usp=sharing
+
+유니티 파일이 3기가가 넘습니다.
+깃허브는 1기가 이상의 파일을 업로드할 시 유료 서비스를 가입해야합니다.
+상위 링크에서 유니티 원본 파일을 다운로드 받을 수 있습니다.
+상업적 목적 이외에 유니티 파일은 사용 허가 됩니다.
